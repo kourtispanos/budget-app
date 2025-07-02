@@ -1,16 +1,13 @@
 # 💰 MyBudgetApp
 
-Μια απλή Python εφαρμογή που σου επιτρέπει να υπολογίσεις το καθαρό σου υπόλοιπο, δίνοντας εισόδημα και έξοδα.
+A simple Python application that allows you to calculate your net balance based on your income and expenses.
 
-## 📦 Περιγραφή
+## 📦 Description
 
-Ο χρήστης εισάγει:
-- ✏️ Το μηνιαίο εισόδημά του
-- 📉 Τα συνολικά έξοδά του
+The user provides:
+- ✏️ Monthly income  
+- 📉 Total expenses  
 
-Και η εφαρμογή του εμφανίζει:
-- ✅ Πόσα του μένουν στο τέλος
-- 💡 Bonus ιδέα: Μπορεί να προτείνει αποταμίευση στο μέλλον
-
-
-
+And the app returns:
+- ✅ The remaining balance  
+- 💡 Bonus idea: Could suggest saving strategies in the future  
